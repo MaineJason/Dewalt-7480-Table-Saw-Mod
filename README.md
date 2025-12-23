@@ -1,4 +1,6 @@
-# Dewalt-7480-Table-Saw-Mod
+<img width="1280" height="720" alt="250008 Thumbnail" src="https://github.com/user-attachments/assets/53196fb7-015d-4b01-9608-5d65c8feef26" />
+
+#Dewalt-7480-Table-Saw-Mod
 Files and information pertaining to the video "Upgrading A Dewalt Table Saw To Accept A Dado Blade Set" - https://youtu.be/2370zWSBGE0
 
 The two files in this repository are as follows:
